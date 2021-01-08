@@ -12,7 +12,11 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing and using the cat app
 
-To install the cat app, follow React documentation. Most of these files come with the npx create-react-app command, the only changes are in the src file. The Youtube.js file is the main script of this web app. Should you want to make changes to this app, review that file and the comments I've made in the code. You cannot change the API, and the changes must be able to embed youtube videos
+To install the cat app, follow React documentation. Most of these files come with the npx create-react-app command, the only changes are in the src file. The Youtube.js file is the main script of this web app. 
+
+Should you want to make changes to this app:
+* Review that file and the comments I've made in the code. 
+* You cannot change the API, and the changes must be able to embed youtube videos
 
 ## Contributing to the cat app
 
