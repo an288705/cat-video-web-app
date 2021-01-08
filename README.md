@@ -8,7 +8,8 @@ Before you begin, ensure you have met the following requirements:
 * You have installed Node.js and can access its modules
 * You have reviewed the React documentation for running this app on your computer. The documentation is here: https://reactjs.org/docs/getting-started.html
 * General experience using React
-* You have reviewed the documentation for the cat-video-api. The documentation is here: https://github.com/an288705/cat-video-api 
+* You have reviewed the documentation for the cat-video-api. The documentation is here: https://github.com/an288705/cat-video-api
+* You have reviewed the json-server documentation for server information. The documentation can be found here: https://github.com/typicode/json-server#getting-started
 
 ## Installing and using the cat app
 
@@ -17,6 +18,7 @@ To install the cat app, follow React documentation. Most of these files come wit
 Should you want to make changes to this app:
 * Review that file and the comments I've made in the code. 
 * You cannot change the API, and the changes must be able to embed youtube videos
+* You have reviewed the json-server documentation for server and route information.
 
 ## Contributing to the cat app
 
