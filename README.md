@@ -6,9 +6,9 @@ This project is meant for those who love cats. Who doesn't enjoy binge watching 
 
 Before you begin, ensure you have met the following requirements:
 * You have installed Node.js and can access its modules
-* You have reviewed the React documentation for running this app on your computer. The documentation is here -> https://reactjs.org/docs/getting-started.html
+* You have reviewed the React documentation for running this app on your computer. The documentation is here: https://reactjs.org/docs/getting-started.html
 * General experience using React
-* You have reviewed the documentation for the cat-video-api. The documentation is here -> https://github.com/an288705/cat-video-api 
+* You have reviewed the documentation for the cat-video-api. The documentation is here: https://github.com/an288705/cat-video-api 
 
 ## Installing and using the cat app
 
