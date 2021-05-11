@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/index.html/cat-video-web-app/static/css/main.f5d31e93.chunk.css",
-    "main.js": "/index.html/cat-video-web-app/static/js/main.1924588b.chunk.js",
-    "main.js.map": "/index.html/cat-video-web-app/static/js/main.1924588b.chunk.js.map",
-    "runtime-main.js": "/index.html/cat-video-web-app/static/js/runtime-main.d432d11e.js",
-    "runtime-main.js.map": "/index.html/cat-video-web-app/static/js/runtime-main.d432d11e.js.map",
-    "static/js/2.98257dce.chunk.js": "/index.html/cat-video-web-app/static/js/2.98257dce.chunk.js",
-    "static/js/2.98257dce.chunk.js.map": "/index.html/cat-video-web-app/static/js/2.98257dce.chunk.js.map",
-    "static/js/3.4506189b.chunk.js": "/index.html/cat-video-web-app/static/js/3.4506189b.chunk.js",
-    "static/js/3.4506189b.chunk.js.map": "/index.html/cat-video-web-app/static/js/3.4506189b.chunk.js.map",
-    "index.html": "/index.html/cat-video-web-app/index.html",
-    "static/css/main.f5d31e93.chunk.css.map": "/index.html/cat-video-web-app/static/css/main.f5d31e93.chunk.css.map",
-    "static/js/2.98257dce.chunk.js.LICENSE.txt": "/index.html/cat-video-web-app/static/js/2.98257dce.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/index.html/cat-video-web-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/cat-video-web-app/static/css/main.f5d31e93.chunk.css",
+    "main.js": "/cat-video-web-app/static/js/main.1924588b.chunk.js",
+    "main.js.map": "/cat-video-web-app/static/js/main.1924588b.chunk.js.map",
+    "runtime-main.js": "/cat-video-web-app/static/js/runtime-main.ed731a65.js",
+    "runtime-main.js.map": "/cat-video-web-app/static/js/runtime-main.ed731a65.js.map",
+    "static/js/2.98257dce.chunk.js": "/cat-video-web-app/static/js/2.98257dce.chunk.js",
+    "static/js/2.98257dce.chunk.js.map": "/cat-video-web-app/static/js/2.98257dce.chunk.js.map",
+    "static/js/3.4506189b.chunk.js": "/cat-video-web-app/static/js/3.4506189b.chunk.js",
+    "static/js/3.4506189b.chunk.js.map": "/cat-video-web-app/static/js/3.4506189b.chunk.js.map",
+    "index.html": "/cat-video-web-app/index.html",
+    "static/css/main.f5d31e93.chunk.css.map": "/cat-video-web-app/static/css/main.f5d31e93.chunk.css.map",
+    "static/js/2.98257dce.chunk.js.LICENSE.txt": "/cat-video-web-app/static/js/2.98257dce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cat-video-web-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d432d11e.js",
+    "static/js/runtime-main.ed731a65.js",
     "static/js/2.98257dce.chunk.js",
     "static/css/main.f5d31e93.chunk.css",
     "static/js/main.1924588b.chunk.js"
