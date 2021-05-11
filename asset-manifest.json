@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cat-video-web-app/static/css/main.f5d31e93.chunk.css",
+    "main.js": "/cat-video-web-app/static/js/main.3ee1ed38.chunk.js",
+    "main.js.map": "/cat-video-web-app/static/js/main.3ee1ed38.chunk.js.map",
+    "runtime-main.js": "/cat-video-web-app/static/js/runtime-main.199ccd99.js",
+    "runtime-main.js.map": "/cat-video-web-app/static/js/runtime-main.199ccd99.js.map",
+    "static/js/2.37f7f33b.chunk.js": "/cat-video-web-app/static/js/2.37f7f33b.chunk.js",
+    "static/js/2.37f7f33b.chunk.js.map": "/cat-video-web-app/static/js/2.37f7f33b.chunk.js.map",
+    "static/js/3.46ae002b.chunk.js": "/cat-video-web-app/static/js/3.46ae002b.chunk.js",
+    "static/js/3.46ae002b.chunk.js.map": "/cat-video-web-app/static/js/3.46ae002b.chunk.js.map",
+    "index.html": "/cat-video-web-app/index.html",
+    "static/css/main.f5d31e93.chunk.css.map": "/cat-video-web-app/static/css/main.f5d31e93.chunk.css.map",
+    "static/js/2.37f7f33b.chunk.js.LICENSE.txt": "/cat-video-web-app/static/js/2.37f7f33b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cat-video-web-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199ccd99.js",
+    "static/js/2.37f7f33b.chunk.js",
+    "static/css/main.f5d31e93.chunk.css",
+    "static/js/main.3ee1ed38.chunk.js"
+  ]
+}
